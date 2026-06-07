@@ -1,7 +1,7 @@
 # matrix-lens-algo-viz
 
-A Python program for exploring and visualizing core linear algebra concepts —
-matrices, vectors, linear transformations, and eigenvectors — through clean
+A Python program for exploring and visualizing core linear algebra concepts on
+matrices, vectors, linear transformations, and eigenvectors, through clean
 implementations and interactive plots.
 
 Built for learners who want to see the math come alive in code.
@@ -52,5 +52,5 @@ Each section is self-contained with explanations and working examples.
 
 ## Background
 
-Built as part of MIT OpenCourseWare Linear Algebra studies.
+Built as part of MIT's AI & Data Science Course in Linear Algebra studies.
 Aimed at making linear algebra intuitive through code and visualization.
