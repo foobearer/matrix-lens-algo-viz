@@ -1,7 +1,7 @@
 # matrix-lens-algo-viz
 
 A Python program for exploring and visualizing core linear algebra concepts on
-matrices, vectors, linear transformations, and eigenvectors, through clean
+matrices, vectors, and linear transformations, through clean
 implementations and interactive plots.
 
 Built for learners who want to see the math come alive in code.
@@ -14,7 +14,6 @@ Built for learners who want to see the math come alive in code.
 - **Transpose** — for any matrix shape
 - **Inverse** — for square, non-singular matrices
 - **Linear Transformations** — computing and visualizing A @ v
-- **Eigenvectors & Eigenvalues** — detection, proof, and visual exploration
 
 ## The `Value` Class
 
