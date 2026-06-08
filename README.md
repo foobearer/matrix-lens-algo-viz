@@ -8,12 +8,12 @@ Built for learners who want to see the math come alive in code.
 
 ## Topics Covered
 
-- **Matrices & Vectors** — creation, shapes, and properties
-- **Basic Operations** — addition, subtraction, matrix multiplication
-- **Determinant** — for square matrices
-- **Transpose** — for any matrix shape
-- **Inverse** — for square, non-singular matrices
-- **Linear Transformations** — computing and visualizing A @ v
+- **Matrices & Vectors**: creation, shapes, and properties
+- **Basic Operations**: addition, subtraction, matrix multiplication
+- **Determinant**: for square matrices
+- **Transpose**: for any matrix shape
+- **Inverse**: for square, non-singular matrices
+- **Linear Transformations**: computing and visualizing A @ v
 
 ## The `Value` Class
 
